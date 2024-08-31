@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;MicrosoftAzure\Storage\Common\MarkerContinuationTokenTrait&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\w3-total-cache\vendor\microsoft\azure-storage-blob\src\Blob\Models\ListContainersResult.php</b> on line <b>42</b><br>

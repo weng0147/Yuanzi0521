@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\HasMonitoringEventsTrait&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\w3-total-cache\vendor\aws\aws-sdk-php\src\Retry\Exception\ConfigurationException.php</b> on line <b>10</b><br>

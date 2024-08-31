@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Namespace declaration statement has to be the very first statement or after any declare call in the script in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\w3-total-cache\vendor\bin\jp.php</b> on line <b>13</b><br>

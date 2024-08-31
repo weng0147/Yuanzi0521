@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;SureCartCore\Middleware\HasMiddlewareDefinitionsTrait&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\surecart\core\core\src\Kernels\HttpKernel.php</b> on line <b>35</b><br>

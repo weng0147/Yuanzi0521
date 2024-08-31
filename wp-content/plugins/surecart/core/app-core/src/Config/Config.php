@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;SureCartAppCore\Concerns\ReadsJsonTrait&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\surecart\core\app-core\src\Config\Config.php</b> on line <b>15</b><br>

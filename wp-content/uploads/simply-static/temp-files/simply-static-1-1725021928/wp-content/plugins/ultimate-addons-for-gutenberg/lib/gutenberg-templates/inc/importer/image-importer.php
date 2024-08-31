@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Gutenberg_Templates\Inc\Traits\Instance&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\ultimate-addons-for-gutenberg\lib\gutenberg-templates\inc\importer\image-importer.php</b> on line <b>28</b><br>

@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\Signature\SignatureTrait&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\w3-total-cache\vendor\aws\aws-sdk-php\src\Signature\SignatureV4.php</b> on line <b>22</b><br>

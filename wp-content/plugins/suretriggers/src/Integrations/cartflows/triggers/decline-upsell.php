@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;SureTriggers\Traits\SingletonLoader&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\suretriggers\src\Integrations\cartflows\triggers\decline-upsell.php</b> on line <b>34</b><br>

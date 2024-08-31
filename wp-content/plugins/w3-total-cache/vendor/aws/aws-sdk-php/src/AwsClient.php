@@ -1,0 +1,2 @@
+<br>
+<b>Fatal error</b>:  Trait &quot;Aws\AwsClientTrait&quot; not found in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\w3-total-cache\vendor\aws\aws-sdk-php\src\AwsClient.php</b> on line <b>19</b><br>

@@ -1,0 +1,4 @@
+<br>
+<b>Warning</b>:  Undefined variable $data in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\presto-player\templates\parts\logo.php</b> on line <b>1</b><br>
+<br>
+<b>Warning</b>:  Trying to access array offset on value of type null in <b>E:\xampp\htdocs\testsite\wordpress-6.6.1-zh_CN\wordpress\wp-content\plugins\presto-player\templates\parts\logo.php</b> on line <b>1</b><br>
